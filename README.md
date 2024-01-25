@@ -1,9 +1,9 @@
 Participantes:
 - Ana Helena Sassi Meinschmiedt
-- Alessandra Conceição Santiago Guimarães
-- Brenda Flávia de Azeredo
-- Enzo de Arruda Santos Scalassara
-- Michael Santana
+- Alessandra Conceição Santiago Guimarães (https://github.com/acsguimaraes)
+- Brenda Flávia de Azeredo (https://github.com/brendafazeredo)
+- Enzo de Arruda Santos Scalassara (https://github.com/enzoscalassara)
+- Michael Santana (https://github.com/michaelsantana95)
 
 # Sistema de Gestão de Restaurantes
 
